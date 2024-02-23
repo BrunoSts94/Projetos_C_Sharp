@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|c:\\users\\bruno sts\\documents\\projetos c#\\calculadoraemcleanarc\\aplication\\fluxodaaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|solutionrelative:aplication\\fluxodaaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|c:\\users\\bruno sts\\documents\\projetos c#\\calculadoraemcleanarc\\aplication\\calculooperacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|solutionrelative:aplication\\calculooperacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|c:\\users\\bruno sts\\documents\\projetos c#\\calculadoraemcleanarc\\aplication\\atribuivalores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|solutionrelative:aplication\\atribuivalores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|c:\\users\\bruno sts\\documents\\projetos c#\\calculadoraemcleanarc\\aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|solutionrelative:aplication\\aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCC97D7-1445-41BE-A250-2641A241617C}|CalculadoraEmCleanArc\\CalculadoraEmCleanArc.csproj|c:\\users\\bruno sts\\documents\\projetos c#\\calculadoraemcleanarc\\calculadoraemcleanarc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCC97D7-1445-41BE-A250-2641A241617C}|CalculadoraEmCleanArc\\CalculadoraEmCleanArc.csproj|solutionrelative:calculadoraemcleanarc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|c:\\users\\bruno sts\\documents\\projetos c#\\calculadoraemcleanarc\\aplication\\atribuioperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706A3014-9281-48EB-83D5-04A2A8CC491A}|Aplication\\Aplication.csproj|solutionrelative:aplication\\atribuioperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aplication",
+              "DocumentMoniker": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\Aplication.csproj",
+              "RelativeDocumentMoniker": "Aplication\\Aplication.csproj",
+              "ToolTip": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\Aplication.csproj",
+              "RelativeToolTip": "Aplication\\Aplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-23T18:02:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FluxoDaAplicacao.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\FluxoDaAplicacao.cs",
+              "RelativeDocumentMoniker": "Aplication\\FluxoDaAplicacao.cs",
+              "ToolTip": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\FluxoDaAplicacao.cs",
+              "RelativeToolTip": "Aplication\\FluxoDaAplicacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:25:23.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AtribuiOperacao.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\AtribuiOperacao.cs",
+              "RelativeDocumentMoniker": "Aplication\\AtribuiOperacao.cs",
+              "ToolTip": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\AtribuiOperacao.cs",
+              "RelativeToolTip": "Aplication\\AtribuiOperacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:22:53.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtribuiValores.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\AtribuiValores.cs",
+              "RelativeDocumentMoniker": "Aplication\\AtribuiValores.cs",
+              "ToolTip": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\AtribuiValores.cs",
+              "RelativeToolTip": "Aplication\\AtribuiValores.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAywBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:19:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculoOperacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\CalculoOperacoes.cs",
+              "RelativeDocumentMoniker": "Aplication\\CalculoOperacoes.cs",
+              "ToolTip": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\Aplication\\CalculoOperacoes.cs",
+              "RelativeToolTip": "Aplication\\CalculoOperacoes.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwDUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:09:00.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\CalculadoraEmCleanArc\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraEmCleanArc\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Sts\\Documents\\Projetos C#\\CalculadoraEmCleanArc\\CalculadoraEmCleanArc\\Program.cs",
+              "RelativeToolTip": "CalculadoraEmCleanArc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:02:41.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
