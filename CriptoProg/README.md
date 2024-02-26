@@ -1,5 +1,4 @@
-# Ferramenta de Criptografia BTI
-<p>Cliente: BTI</p>
+# Ferramenta de Criptografia
 
 ## Outline:
 Esse programa tem como função fazer a criptografia e descriptografia de dados apartir do modelo de chave assíncrona.
