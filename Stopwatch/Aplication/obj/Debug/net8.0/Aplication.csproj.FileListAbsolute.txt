@@ -1,0 +1,11 @@
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\Bruno Sts\Documents\Projetos C#\Stopwatch\Aplication\obj\Debug\net8.0\ref\Aplication.dll
