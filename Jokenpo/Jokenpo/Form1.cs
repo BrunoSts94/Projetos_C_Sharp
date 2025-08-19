@@ -51,7 +51,7 @@ namespace Jokenpo
                 default:
                     pictureBox1.Image = game.ImgPlayer;
                     pictureBox2.Image = game.ImgPc;
-                    break; 
+                    break;
             }
         }
     }
