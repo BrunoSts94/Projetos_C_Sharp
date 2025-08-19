@@ -1,6 +1,6 @@
-# Ferramenta de Criptografia
+## 📋 Projeto Ferramenta de Criptografia
 
-## Outline:
+## 🧐 Sobre:
 Esse programa tem como função fazer a criptografia e descriptografia de dados apartir do modelo de chave assíncrona.
 
 ### Fluxo da Aplicação:
