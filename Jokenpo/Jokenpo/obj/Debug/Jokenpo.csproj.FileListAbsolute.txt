@@ -1,0 +1,11 @@
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Form1.resources
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
+C:\Users\Bruno\Documents\Projetos C#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe.config
