@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88254FF1-4736-4209-A50A-2DBFCC3F14BD}|Jokenpo\\Jokenpo.csproj|c:\\users\\bruno\\documents\\github\\projetos_c_sharp\\jokenpo\\jokenpo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88254FF1-4736-4209-A50A-2DBFCC3F14BD}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88254FF1-4736-4209-A50A-2DBFCC3F14BD}|Jokenpo\\Jokenpo.csproj|c:\\users\\bruno\\documents\\github\\projetos_c_sharp\\jokenpo\\jokenpo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88254FF1-4736-4209-A50A-2DBFCC3F14BD}|Jokenpo\\Jokenpo.csproj|solutionrelative:jokenpo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88254FF1-4736-4209-A50A-2DBFCC3F14BD}|Jokenpo\\Jokenpo.csproj|C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\Jokenpo\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-19T18:16:38.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -35,6 +56,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\Jokenpo\\Form1.cs",
+              "RelativeDocumentMoniker": "Jokenpo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\Jokenpo\\Form1.cs [Design]",
+              "RelativeToolTip": "Jokenpo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:06:39.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\Jokenpo\\Form1.cs",
               "RelativeDocumentMoniker": "Jokenpo\\Form1.cs",
@@ -42,11 +75,12 @@
               "RelativeToolTip": "Jokenpo\\Form1.cs",
               "ViewState": "AgIAABcAAAAAAAAAAADwvzQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:24:28.929Z"
+              "WhenOpened": "2025-08-15T17:24:28.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\Jokenpo\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Jokenpo\\Form1.Designer.cs",
@@ -59,13 +93,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\Jokenpo\\Game.cs",
               "RelativeDocumentMoniker": "Jokenpo\\Game.cs",
               "ToolTip": "C:\\Users\\Bruno\\Documents\\Github\\Projetos_C_Sharp\\Jokenpo\\Jokenpo\\Game.cs",
               "RelativeToolTip": "Jokenpo\\Game.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAQwDYAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T17:25:52.386Z",
               "EditorCaption": ""

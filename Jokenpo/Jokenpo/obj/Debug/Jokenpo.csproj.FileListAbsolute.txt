@@ -13,7 +13,6 @@ C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\bin\Debug\Joken
 C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
 C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
 C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
-C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe.config
 C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Form1.resources
 C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
 C:\Users\Bruno\Documents\Github\Projetos_C_Sharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.cache
