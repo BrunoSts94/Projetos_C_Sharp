@@ -52,7 +52,7 @@ namespace Jokenpo
             ImgPlayer = Images[jogador];
             ImgPc = Images[jogadapc];
 
-            //codição para definir a partir dos milisegundos
+            //codição para definir a partir dos milisegundos.
             if (jogador == jogadapc)
             {
                 return Resultado.Empatar;
